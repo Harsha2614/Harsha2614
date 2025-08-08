@@ -1,44 +1,60 @@
-![logo](https://github.com/your-username/your-username/blob/main/banner.png)
+![banner](https://github.com/your-username/your-username/blob/main/banner.png)
+
 <h1 align="center">Hi 👋, I'm Narayana Harsha Vardhan</h1>
 <h3 align="center">Aspiring Software Engineer | AI & ML Enthusiast | Cloud Certified</h3>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=your-github&label=Profile%20views&color=0e75b6&style=flat" alt="your-github" /> </p>
+### 🚀 About Me  
+🎓 Pursuing **B.Tech in Computer Science (AI & ML)** at VIT-AP University (GPA: 8.79)  
+💡 Motivated and adaptable with a *can-do* attitude, eager to contribute to impactful software projects  
+⚡ Passionate about **Machine Learning, Web Development, and Cloud Technologies**  
 
-- 🎓 Pursuing **B.Tech in Computer Science (AI & ML)** at VIT-AP University (GPA: 8.79)  
-- 💻 Passionate about **Machine Learning, Web Development, and Cloud Technologies**  
-- 🏢 **Corporate On-Campus Program (Edubot)** – Worked in agile teams, frontend planning, and as a **Business Analyst**  
-- ⚡ Fun fact: *"I believe in learning something new every day"*  
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/your-linkedin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://github.com/your-github" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a>
-</p>
+### 🛠 Skills  
+- **Programming Languages:** Java, Python, TypeScript, JavaScript  
+- **Frontend:** HTML5, CSS3, TailwindCSS, React  
+- **Database & Backend:** DBMS  
+- **Methodologies:** Agile, Software Development Methodologies  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/></a>
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-</p>
+---
 
-<h3 align="left">Projects:</h3>
-- E-commerce Shipping Prediction using Machine Learning – [Link](#)  
-- Q-Learning for Autonomous Taxi Navigation – [Report & Code](#)  
-- Facial Age Detection using Deep Learning – [Report & Code](#)  
+### 💼 Experience  
+**Corporate On-Campus Program** *(Feb 2025 – July 2025)*  
+*Edubot Software & Services – In collaboration with VIT-AP University*  
+- Worked in a collaborative, agile environment applying academic knowledge to real-world projects  
+- Planned frontend development tasks and coordinated sprints  
+- Served as **Business Analyst** for final project:  
+  - Collaborated with developers and UI/UX designers to deliver user-focused features  
+  - Shared daily progress reports and improved workflow efficiency  
 
-<h3 align="left">Certifications:</h3>
+---
+
+### 📂 Projects  
+- **E-commerce Shipping Prediction using Machine Learning** – [Project Link](#)  
+- **Q-Learning for Autonomous Taxi Navigation (Reinforcement Learning)** – [Report & Source Code](#)  
+- **Facial Age Detection using Deep Learning** – [Report & Source Code](#)  
+
+---
+
+### 🎓 Education  
+- **B.Tech in Computer Science (AI & ML)** – VIT-AP University *(2022 – Present)* | GPA: 8.79  
+- **Class 12 (CBSE)** – Dr. KKR’s Happy Valley School | 89%  
+
+---
+
+### 📜 Certifications  
 - AWS Certified Cloud Practitioner – AWS  
-- AI using Google TensorFlow – SmartInternz (Google & Smartbridge)  
+- Artificial Intelligence using Google TensorFlow – SmartInternz (Google & Smartbridge)  
 - Edubot Project Certificate – Edubot  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=your-github&show_icons=true&locale=en&layout=compact" alt="your-github" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=your-github&show_icons=true&locale=en" alt="your-github" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=your-github&" alt="your-github" /></p>
+---
+
+### 🌐 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/your-linkedin)  
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/your-github)  
+📧 **Email:** harsha.rmb31@gmail.com  
+📞 **Phone:** +91 7995520574  
+
+---
