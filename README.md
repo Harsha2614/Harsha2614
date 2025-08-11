@@ -1,4 +1,4 @@
-![banner](https://github.com/your-username/your-username/blob/main/banner.png)
+
 
 <h1 align="center">Hi 👋, I'm Narayana Harsha Vardhan</h1>
 <h3 align="center">Aspiring Software Engineer | AI & ML Enthusiast | Cloud Certified</h3>
@@ -32,15 +32,15 @@
 ---
 
 ### 📂 Projects  
-- **E-commerce Shipping Prediction using Machine Learning** – [Project Link](#)  
-- **Q-Learning for Autonomous Taxi Navigation (Reinforcement Learning)** – [Report & Source Code](#)  
-- **Facial Age Detection using Deep Learning** – [Report & Source Code](#)  
+- **E-commerce Shipping Prediction using Machine Learning** 
+- **Q-Learning for Autonomous Taxi Navigation (Reinforcement Learning)** 
+- **Facial Age Detection using Deep Learning**
 
 ---
 
 ### 🎓 Education  
-- **B.Tech in Computer Science (AI & ML)** – VIT-AP University *(2022 – Present)* | GPA: 8.79  
-- **Class 12 (CBSE)** – Dr. KKR’s Happy Valley School | 89%  
+- **B.Tech in Computer Science (AI & ML)** – VIT-AP University *(2022 – Present)* | GPA: 8.80
+- **Class 12 (CBSE)** – Dr. KKR’s Happy Valley School | 88.8%  
 
 ---
 
@@ -52,8 +52,8 @@
 ---
 
 ### 🌐 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/your-linkedin)  
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/your-github)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/harsha-vardhan-narayana-2201b6278/)  
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/Harsha2614)  
 📧 **Email:** harsha.rmb31@gmail.com  
 📞 **Phone:** +91 7995520574  
 
