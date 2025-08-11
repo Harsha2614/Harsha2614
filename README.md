@@ -6,7 +6,7 @@
 ---
 
 ### 🚀 About Me  
-🎓 Pursuing **B.Tech in Computer Science (AI & ML)** at VIT-AP University (GPA: 8.79)  
+🎓 Pursuing **B.Tech in Computer Science (AI & ML)** at VIT-AP University (GPA: 8.80)  
 💡 Motivated and adaptable with a *can-do* attitude, eager to contribute to impactful software projects  
 ⚡ Passionate about **Machine Learning, Web Development, and Cloud Technologies**  
 
