@@ -1,6 +1,6 @@
 <!-- 🌈 Colorful Animated Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FF61F6&center=true&vCenter=true&width=800&lines=👋+Hi,+I'm+Narayana+Harsha+Vardhan;🎓+B.Tech+CSE+(AI+%26+ML);🤖+AI%2FML+Enthusiast;💻+Frontend+Developer;🚀+Always+Learning+Always+Building" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00F9FF&center=true&vCenter=true&width=800&lines=👋+Hi,+I'm+Narayana+Harsha+Vardhan;🎓+B.Tech+CSE+(AI+%26+ML);🤖+AI%2FML+Enthusiast;💻+Frontend+Developer;🚀+Always+Learning+Always+Building" />
 </p>
 
 ---
@@ -20,50 +20,48 @@
   <table>
     <tr>
       <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=python" width="40"/><br>Python
+        <img src="https://skillicons.dev/icons?i=python" width="45"/><br>Python
       </td>
       <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=java" width="40"/><br>Java
+        <img src="https://skillicons.dev/icons?i=java" width="45"/><br>Java
       </td>
       <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=ts" width="40"/><br>TypeScript
+        <img src="https://skillicons.dev/icons?i=ts" width="45"/><br>TypeScript
       </td>
       <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=js" width="40"/><br>JavaScript
+        <img src="https://skillicons.dev/icons?i=js" width="45"/><br>JavaScript
       </td>
       <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=html" width="40"/><br>HTML5
+        <img src="https://skillicons.dev/icons?i=html" width="45"/><br>HTML5
       </td>
       <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=css" width="40"/><br>CSS3
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=react" width="40"/><br>React
+        <img src="https://skillicons.dev/icons?i=css" width="45"/><br>CSS3
       </td>
       <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="40"/><br>TailwindCSS
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=tensorflow" width="40"/><br>TensorFlow
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=opencv" width="40"/><br>OpenCV
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=mysql" width="40"/><br>MySQL
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=git" width="40"/><br>Git
+        <img src="https://skillicons.dev/icons?i=react" width="45"/><br>React
       </td>
     </tr>
     <tr>
       <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=github" width="40"/><br>GitHub
+        <img src="https://skillicons.dev/icons?i=tailwind" width="45"/><br>TailwindCSS
       </td>
       <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=vscode" width="40"/><br>VS Code
+        <img src="https://skillicons.dev/icons?i=tensorflow" width="45"/><br>TensorFlow
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=opencv" width="45"/><br>OpenCV
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=mysql" width="45"/><br>MySQL
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=git" width="45"/><br>Git
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=github" width="45"/><br>GitHub
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=vscode" width="45"/><br>VS Code
       </td>
     </tr>
   </table>
@@ -102,12 +100,12 @@
 # 📊 GitHub Insights  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harsha2614&show_icons=true&theme=radical&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Harsha2614&theme=radical&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Harsha2614&show_icons=true&theme=gruvbox&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Harsha2614&theme=gruvbox&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsha2614&layout=compact&theme=radical&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsha2614&layout=compact&theme=gruvbox&hide_border=true" height="170"/>
 </p>
 
 ---
