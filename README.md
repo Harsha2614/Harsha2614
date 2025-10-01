@@ -1,96 +1,116 @@
-<!-- Banner -->
+<!-- Profile Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=180&section=header&text=Narayana%20Harsha%20Vardhan&fontSize=35&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://i.ibb.co/GCS8qzg/professional-banner.png" alt="Harsha Banner" width="100%" />
 </p>
 
-<h3 align="center">🎓 B.Tech CSE (AI & ML) | 💡 AI/ML Enthusiast | 💻 Frontend Developer</h3>
+<h1 align="center">👋 Hi, I'm Narayana Harsha Vardhan</h1>
+<h3 align="center">🚀 AI/ML Enthusiast | 💻 Frontend Developer | 🎓 B.Tech CSE (AI & ML)</h3>
+
 <p align="center">
-  <a href="mailto:harsha.rmb31@gmail.com">📩 Email</a> •
-  <a href="https://www.linkedin.com/in/harsha-vardhan-narayana-2201b6278/">LinkedIn</a> •
-  <a href="https://github.com/Harsha2614">GitHub</a> •
-  <a href="https://leetcode.com/u/harsha310/">LeetCode</a> •
-  <a href="https://www.credly.com/users/harsha-vardhan-narayana">Credly</a>
+  <a href="mailto:harsha.rmb31@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/harsha-vardhan-narayana-2201b6278/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/Harsha2614"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"></a>
+  <a href="https://leetcode.com/u/harsha310/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white"></a>
+  <a href="https://www.credly.com/users/harsha-vardhan-narayana"><img src="https://img.shields.io/badge/Credly-FF6B00?style=flat&logo=credly&logoColor=white"></a>
 </p>
 
 ---
 
 ## 👨‍💼 About Me  
-I am a **Computer Science student specializing in Artificial Intelligence & Machine Learning** at **VIT-AP University**.  
-Passionate about building intelligent systems, scalable applications, and solving real-world challenges with data and algorithms.  
 
-- 🌱 Exploring **Deep Learning, Reinforcement Learning, and Cloud AI**  
-- 💻 Hands-on experience in **frontend development** & **AI/ML model building**  
-- 🚀 Looking for **AI/ML Engineer, Data Scientist, or Software Developer** roles  
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
+
+🔹 Final-year **B.Tech CSE (AI & ML)** student at **VIT-AP University**  
+🔹 Passionate about **Machine Learning, Deep Learning & Reinforcement Learning**  
+🔹 Skilled in building **intelligent systems** and **scalable frontend applications**  
+🔹 Strong adaptability, problem-solving skills, and a growth mindset  
+
+💡 *"Always learning, always building."*  
 
 ---
 
-## 🛠️ Skills  
+## 🛠️ Tech Stack  
 
-**Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
-![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=databricks&logoColor=white)  
-
-**Frameworks & Tools**  
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) 
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) 
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white) 
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,ts,js,html,css,react,tailwind,tensorflow,sklearn,opencv,mysql,git" />
+</p>
 
 ---
 
 ## 📌 Featured Projects  
 
-🔹 **[E-commerce Shipping Prediction](https://github.com/Harsha2614/Ecommerce-shipping-prediction-using-Machine-learning-.git)**  
-- Predicted on-time delivery using ML/DL models on **10,999 shipment records**  
-- Achieved **68.52% accuracy** with Random Forest + hyperparameter tuning  
+<table>
+<tr>
+<td width="50%">
+  <h3 align="center">📦 E-commerce Shipping Prediction</h3>
+  <p align="center">
+    <img src="https://cdn-icons-png.flaticon.com/512/711/711239.png" width="100" />
+  </p>
+  <p>🔹 ML/DL models on <b>10,999 shipment records</b>  
+  🔹 Achieved <b>68.52% accuracy</b> with Random Forest + tuning  
+  🔹 <a href="https://github.com/Harsha2614/Ecommerce-shipping-prediction-using-Machine-learning-.git">🔗 View Project</a></p>
+</td>
 
-🔹 **[Facial Age Detection (Deep Learning)](https://drive.google.com/file/d/1bkzv-kdfWnyhbELZ7BmSsMvNMHBUwB6S/view?usp=sharing)**  
-- Implemented CNN with Residual Blocks & Dropout on **20,000+ UTKFace images**  
-- Achieved **MAE ≈ 4.8 years** on validation  
+<td width="50%">
+  <h3 align="center">🧑‍🦱 Facial Age Detection</h3>
+  <p align="center">
+    <img src="https://cdn-icons-png.flaticon.com/512/921/921089.png" width="100" />
+  </p>
+  <p>🔹 CNN with Residual Blocks & Dropout on <b>20,000+ UTKFace images</b>  
+  🔹 Achieved <b>MAE ≈ 4.8 years</b>  
+  🔹 <a href="https://drive.google.com/file/d/1bkzv-kdfWnyhbELZ7BmSsMvNMHBUwB6S/view?usp=sharing">🔗 View Project</a></p>
+</td>
+</tr>
+</table>
 
-🔹 **[Q-Learning for Taxi Navigation](https://github.com/Harsha2614/Q-Learning-for-Autonomous-Taxi-Navigation.git)**  
-- Designed a Q-Learning agent for OpenAI Gym Taxi-v3  
-- Integrated **traffic, weather & energy constraints** with visualization  
+<table>
+<tr>
+<td width="100%">
+  <h3 align="center">🚕 Q-Learning for Taxi Navigation</h3>
+  <p align="center">
+    <img src="https://cdn-icons-png.flaticon.com/512/854/854894.png" width="100" />
+  </p>
+  <p align="center">🔹 Implemented Q-Learning agent in OpenAI Gym  
+  🔹 Integrated traffic, weather & energy constraints  
+  🔹 <a href="https://github.com/Harsha2614/Q-Learning-for-Autonomous-Taxi-Navigation.git">🔗 View Project</a></p>
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🏆 Certifications  
 
-- **AWS Certified Cloud Practitioner** (Score: 963/1000)  
-- **Artificial Intelligence using Google TensorFlow** – Smartbridge + Google  
-- **Oracle Cloud Infrastructure Generative AI Professional** (Score: 90%)  
+- 🏅 **AWS Certified Cloud Practitioner** (Score: 963/1000)  
+- 🤖 **AI using Google TensorFlow** – Smartbridge + Google  
+- ☁️ **Oracle Cloud Infrastructure Generative AI Professional** (Score: 90%)  
 
 ---
 
 ## 📊 GitHub Insights  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harsha2614&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Harsha2614&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="160"/>
-</p>  
+  <img src="https://github-readme-stats.vercel.app/api?username=Harsha2614&show_icons=true&theme=react&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Harsha2614&theme=react&hide_border=true" height="160"/>
+</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsha2614&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="160"/>
-</p>  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsha2614&layout=compact&theme=react&hide_border=true" height="160"/>
+</p>
 
 ---
 
 ## 📫 Let’s Connect  
 
 <p align="center">
-  <a href="mailto:harsha.rmb31@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/harsha-vardhan-narayana-2201b6278/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/Harsha2614"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/harsha310/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
-  <a href="https://www.credly.com/users/harsha-vardhan-narayana"><img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" /></a>
+  <a href="mailto:harsha.rmb31@gmail.com"><img src="https://img.icons8.com/clouds/100/000000/gmail.png" width="70" /></a>
+  <a href="https://www.linkedin.com/in/harsha-vardhan-narayana-2201b6278/"><img src="https://img.icons8.com/clouds/100/000000/linkedin.png" width="70" /></a>
+  <a href="https://github.com/Harsha2614"><img src="https://img.icons8.com/clouds/100/000000/github.png" width="70" /></a>
+  <a href="https://leetcode.com/u/harsha310/"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/100/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" width="70" /></a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:92FE9D,100:00C9FF&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 </p>
