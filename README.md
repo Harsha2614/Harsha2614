@@ -1,6 +1,6 @@
-<!-- 🌈 Animated Header -->
+<!-- 🌈 Colorful Animated Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00F9FF&center=true&vCenter=true&width=850&lines=👋+Hi,+I'm+Narayana+Harsha+Vardhan;🎓+B.Tech+CSE+(AI+%26+ML);🤖+AI%2FML+Enthusiast;💻+Frontend+Developer;🚀+Innovator+%26+Problem+Solver" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00F9FF&center=true&vCenter=true&width=800&lines=👋+Hi,+I'm+Narayana+Harsha+Vardhan;🎓+B.Tech+CSE+(AI+%26+ML);🤖+AI%2FML+Enthusiast;💻+Frontend+Developer;🚀+Always+Learning+Always+Building" />
 </p>
 
 ---
@@ -12,42 +12,59 @@
 💻 Skilled in **Frontend Development** & **AI-based projects**  
 ⚡ Quick learner with strong **problem-solving skills** and a **growth mindset**  
 
-💡 *"Always learning, always building."*  
-
 ---
 
 # 🛠️ Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python" width="50"/><br><sub>Python</sub>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=java" width="50"/><br><sub>Java</sub>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=ts" width="50"/><br><sub>TypeScript</sub>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=js" width="50"/><br><sub>JavaScript</sub>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=html" width="50"/><br><sub>HTML5</sub>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=css" width="50"/><br><sub>CSS3</sub>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=react" width="50"/><br><sub>React</sub>
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tailwind" width="50"/><br><sub>TailwindCSS</sub>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=tensorflow" width="50"/><br><sub>TensorFlow</sub>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=opencv" width="50"/><br><sub>OpenCV</sub>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=mysql" width="50"/><br><sub>MySQL</sub>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=git" width="50"/><br><sub>Git</sub>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=github" width="50"/><br><sub>GitHub</sub>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=vscode" width="50"/><br><sub>VS Code</sub>
+  <table>
+    <tr>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=python" width="45"/><br>Python
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=java" width="45"/><br>Java
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=ts" width="45"/><br>TypeScript
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=js" width="45"/><br>JavaScript
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=html" width="45"/><br>HTML5
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=css" width="45"/><br>CSS3
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=react" width="45"/><br>React
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=tailwind" width="45"/><br>TailwindCSS
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=tensorflow" width="45"/><br>TensorFlow
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=opencv" width="45"/><br>OpenCV
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=mysql" width="45"/><br>MySQL
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=git" width="45"/><br>Git
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=github" width="45"/><br>GitHub
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=vscode" width="45"/><br>VS Code
+      </td>
+    </tr>
+  </table>
 </p>
 
 ---
@@ -83,12 +100,12 @@
 # 📊 GitHub Insights  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harsha2614&show_icons=true&theme=radical&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Harsha2614&theme=radical&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Harsha2614&show_icons=true&theme=gruvbox&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Harsha2614&theme=gruvbox&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsha2614&layout=compact&theme=radical&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsha2614&layout=compact&theme=gruvbox&hide_border=true" height="170"/>
 </p>
 
 ---
@@ -97,13 +114,13 @@
 
 <p align="center">
   <a href="mailto:harsha.rmb31@gmail.com">
-    <img src="https://img.shields.io/badge/📧_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/harsha-vardhan-narayana-2201b6278/">
     <img src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/Harsha2614">
-    <img src="https://img.shields.io/badge/🐙_GitHub-333?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/🐙_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://leetcode.com/u/harsha310/">
     <img src="https://img.shields.io/badge/🧩_LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
@@ -116,5 +133,5 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF61F6,100:00F9FF&height=120&section=footer&text=🌈+Thanks+for+Visiting!+🚀&fontSize=30&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=🌈+Thanks+for+Visiting!+🚀&fontSize=30&fontColor=ffffff"/>
 </p>
