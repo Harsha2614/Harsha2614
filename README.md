@@ -1,6 +1,6 @@
-<!-- 🌈 Stunning Animated Header -->
+<!-- 🌈 Animated Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=F72585&center=true&vCenter=true&width=850&lines=👋+Hi,+I'm+Narayana+Harsha+Vardhan;🎓+B.Tech+CSE+(AI+%26+ML);🤖+AI%2FML+Enthusiast;💻+Frontend+Developer;🚀+Innovator+%26+Problem+Solver" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00F9FF&center=true&vCenter=true&width=850&lines=👋+Hi,+I'm+Narayana+Harsha+Vardhan;🎓+B.Tech+CSE+(AI+%26+ML);🤖+AI%2FML+Enthusiast;💻+Frontend+Developer;🚀+Innovator+%26+Problem+Solver" />
 </p>
 
 ---
@@ -16,62 +16,38 @@
 
 ---
 
-# 🎨 Tech Stack  
+# 🛠️ Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python" width="50"/> <br> Python
+  <img src="https://skillicons.dev/icons?i=python" width="50"/><br><sub>Python</sub>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=java" width="50"/><br><sub>Java</sub>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=ts" width="50"/><br><sub>TypeScript</sub>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=js" width="50"/><br><sub>JavaScript</sub>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=html" width="50"/><br><sub>HTML5</sub>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" width="50"/><br><sub>CSS3</sub>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=react" width="50"/><br><sub>React</sub>
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java" width="50"/> <br> Java
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts" width="50"/> <br> TypeScript
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js" width="50"/> <br> JavaScript
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html" width="50"/> <br> HTML5
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=css" width="50"/> <br> CSS3
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react" width="50"/> <br> React
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tailwind" width="50"/> <br> TailwindCSS
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow" width="50"/> <br> TensorFlow
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=opencv" width="50"/> <br> OpenCV
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql" width="50"/> <br> MySQL
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git" width="50"/> <br> Git
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=github" width="50"/> <br> GitHub
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode" width="50"/> <br> VS Code
+  <img src="https://skillicons.dev/icons?i=tailwind" width="50"/><br><sub>TailwindCSS</sub>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=tensorflow" width="50"/><br><sub>TensorFlow</sub>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=opencv" width="50"/><br><sub>OpenCV</sub>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mysql" width="50"/><br><sub>MySQL</sub>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=git" width="50"/><br><sub>Git</sub>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" width="50"/><br><sub>GitHub</sub>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode" width="50"/><br><sub>VS Code</sub>
 </p>
 
 ---
@@ -107,12 +83,12 @@
 # 📊 GitHub Insights  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harsha2614&show_icons=true&theme=nightowl&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Harsha2614&theme=nightowl&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Harsha2614&show_icons=true&theme=radical&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Harsha2614&theme=radical&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsha2614&layout=compact&theme=nightowl&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsha2614&layout=compact&theme=radical&hide_border=true" height="170"/>
 </p>
 
 ---
