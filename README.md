@@ -19,50 +19,22 @@
 <p align="center">
   <table>
     <tr>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=python" width="45"/><br>Python
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=java" width="45"/><br>Java
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=ts" width="45"/><br>TypeScript
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=js" width="45"/><br>JavaScript
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=html" width="45"/><br>HTML5
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=css" width="45"/><br>CSS3
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=react" width="45"/><br>React
-      </td>
+      <td align="center" width="100"><img src="https://skillicons.dev/icons?i=python" width="45"/><br>Python</td>
+      <td align="center" width="100"><img src="https://skillicons.dev/icons?i=java" width="45"/><br>Java</td>
+      <td align="center" width="100"><img src="https://skillicons.dev/icons?i=ts" width="45"/><br>TypeScript</td>
+      <td align="center" width="100"><img src="https://skillicons.dev/icons?i=js" width="45"/><br>JavaScript</td>
+      <td align="center" width="100"><img src="https://skillicons.dev/icons?i=html" width="45"/><br>HTML5</td>
+      <td align="center" width="100"><img src="https://skillicons.dev/icons?i=css" width="45"/><br>CSS3</td>
+      <td align="center" width="100"><img src="https://skillicons.dev/icons?i=react" width="45"/><br>React</td>
     </tr>
     <tr>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="45"/><br>TailwindCSS
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=tensorflow" width="45"/><br>TensorFlow
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=opencv" width="45"/><br>OpenCV
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=mysql" width="45"/><br>MySQL
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=git" width="45"/><br>Git
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=github" width="45"/><br>GitHub
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=vscode" width="45"/><br>VS Code
-      </td>
+      <td align="center" width="100"><img src="https://skillicons.dev/icons?i=tailwind" width="45"/><br>TailwindCSS</td>
+      <td align="center" width="100"><img src="https://skillicons.dev/icons?i=tensorflow" width="45"/><br>TensorFlow</td>
+      <td align="center" width="100"><img src="https://skillicons.dev/icons?i=opencv" width="45"/><br>OpenCV</td>
+      <td align="center" width="100"><img src="https://skillicons.dev/icons?i=mysql" width="45"/><br>MySQL</td>
+      <td align="center" width="100"><img src="https://skillicons.dev/icons?i=git" width="45"/><br>Git</td>
+      <td align="center" width="100"><img src="https://skillicons.dev/icons?i=github" width="45"/><br>GitHub</td>
+      <td align="center" width="100"><img src="https://skillicons.dev/icons?i=vscode" width="45"/><br>VS Code</td>
     </tr>
   </table>
 </p>
@@ -100,13 +72,43 @@
 # 📊 GitHub Insights  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harsha2614&show_icons=true&theme=gruvbox&hide_border=true" height="170"/>
-  <img src="https://streak-stats.demolab.com?user=Harsha2614&theme=gruvbox&hide_border=true" height="170"/>
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=Harsha2614&show_icons=true&theme=gruvbox&hide_border=true" 
+      media="(prefers-color-scheme: dark)"
+    />
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=Harsha2614&show_icons=true&theme=default&hide_border=true" 
+      media="(prefers-color-scheme: light)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=Harsha2614&show_icons=true&theme=gruvbox&hide_border=true" height="170"/>
+  </picture>
 
+  <picture>
+    <source 
+      srcset="https://streak-stats.demolab.com?user=Harsha2614&theme=gruvbox&hide_border=true" 
+      media="(prefers-color-scheme: dark)"
+    />
+    <source 
+      srcset="https://streak-stats.demolab.com?user=Harsha2614&theme=default&hide_border=true" 
+      media="(prefers-color-scheme: light)"
+    />
+    <img src="https://streak-stats.demolab.com?user=Harsha2614&theme=gruvbox&hide_border=true" height="170"/>
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsha2614&layout=compact&theme=gruvbox&hide_border=true" height="170"/>
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsha2614&layout=compact&theme=gruvbox&hide_border=true" 
+      media="(prefers-color-scheme: dark)"
+    />
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsha2614&layout=compact&theme=default&hide_border=true" 
+      media="(prefers-color-scheme: light)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsha2614&layout=compact&theme=gruvbox&hide_border=true" height="170"/>
+  </picture>
 </p>
 
 ---
@@ -115,13 +117,25 @@
 
 <p align="center">
   <a href="mailto:harsha.rmb31@gmail.com">
-    <img src="https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <picture>
+      <source srcset="https://img.shields.io/badge/📧_Email-d32f2f?style=for-the-badge&logo=gmail&logoColor=white" media="(prefers-color-scheme: dark)" />
+      <source srcset="https://img.shields.io/badge/📧_Email-ff5c5c?style=for-the-badge&logo=gmail&logoColor=white" media="(prefers-color-scheme: light)" />
+      <img src="https://img.shields.io/badge/📧_Email-d32f2f?style=for-the-badge&logo=gmail&logoColor=white" />
+    </picture>
   </a>
   <a href="https://www.linkedin.com/in/harsha-vardhan-narayana-2201b6278/">
-    <img src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <picture>
+      <source srcset="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" media="(prefers-color-scheme: dark)" />
+      <source srcset="https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" media="(prefers-color-scheme: light)" />
+      <img src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </picture>
   </a>
   <a href="https://github.com/Harsha2614">
-    <img src="https://img.shields.io/badge/🐙_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <picture>
+      <source srcset="https://img.shields.io/badge/🐙_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" media="(prefers-color-scheme: dark)" />
+      <source srcset="https://img.shields.io/badge/🐙_GitHub-000000?style=for-the-badge&logo=github&logoColor=white" media="(prefers-color-scheme: light)" />
+      <img src="https://img.shields.io/badge/🐙_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    </picture>
   </a>
   <a href="https://leetcode.com/u/harsha310/">
     <img src="https://img.shields.io/badge/🧩_LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
