@@ -1,6 +1,6 @@
 <!-- 🌈 Colorful Animated Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FF0040&center=true&vCenter=true&width=800&lines=👋+Hi,+I'm+Narayana+Harsha+Vardhan;🎓+B.Tech+CSE+(AI+%26+ML);🤖+AI%2FML+Enthusiast;💻+Frontend+Developer;🚀+Always+Learning+Always+Building" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=007BFF&center=true&vCenter=true&width=800&lines=👋+Hi,+I'm+Narayana+Harsha+Vardhan;🎓+B.Tech+CSE+(AI+%26+ML);🤖+AI%2FML+Enthusiast;💻+Frontend+Developer;🚀+Always+Learning+Always+Building" />
 </p>
 
 ---
@@ -135,9 +135,3 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=🌈+Thanks+for+Visiting!+🚀&fontSize=30&fontColor=ffffff"/>
 </p>
-
-
-
-it is showing empty message
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Harsha2614&theme=gruvbox&hide_border=true" height="170"/>
