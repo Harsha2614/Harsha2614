@@ -101,7 +101,8 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Harsha2614&show_icons=true&theme=gruvbox&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Harsha2614&theme=gruvbox&hide_border=true" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=Harsha2614&theme=gruvbox&hide_border=true" height="170"/>
+
 </p>
 
 <p align="center">
