@@ -23,7 +23,8 @@
 
 ## 🎯 About Me
 
-<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" alt="Developer at work" width="380"
+src="https://user-images.githubusercontent.com/74038190/212750375-89f6c4f6-0e16-4dfc-b6e2-30d2a8d6b3c4.gif">
 
 - 🎓 Final-year **B.Tech CSE (AI & ML)** student at **VIT-AP University**
 - 🤖 Strong interest in **Machine Learning, Deep Learning & Reinforcement Learning**
@@ -64,16 +65,35 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 Projects
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harsha2614&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsha2614&theme=tokyonight&hide_border=true&layout=compact&bg_color=0D1117" height="165"/>
-</div>
+### 🛡️ ResQNet — Integrated Disaster Management & Safety System
+- Built a **3-module AI platform**: chatbot, fake-news detection, and safe-route navigation
+- Achieved **95% speech-to-text accuracy** and **92% fake-news detection accuracy**
+- Reduced emergency navigation & search time by **30%**
+- Integrated multiple Flask microservices using **DispatcherMiddleware**
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harsha2614&theme=tokyonight&hide_border=true&background=0D1117"/>
-</div>
+**Tech:** Flask, Whisper, SQLite, Multiple ML Models
+
+---
+
+### 📝 AI-Powered Meeting Summarizer
+- Developed a **FastAPI-based meeting summarizer**
+- Reduced manual note-taking effort by **70%**
+- Compressed meetings by **60–70%** using automated summaries
+- Stored transcripts in MySQL with **30% faster retrieval**
+
+**Tech:** FastAPI, Whisper, GPT-4o-mini, MySQL, HTML, JavaScript
+
+---
+
+### 🚕 Autonomous Taxi Navigation (Reinforcement Learning)
+- Implemented a **Q-Learning agent** in OpenAI Gym (Taxi-v3)
+- Improved route efficiency by **45%**
+- Increased cumulative rewards by **35%** over 5,000+ episodes
+- Visualized reward patterns for better policy explainability
+
+**Tech:** Python, NumPy, Matplotlib, OpenAI Gym
 
 ---
 
@@ -85,16 +105,18 @@
   </a>
 </p>
 
-### 👨‍💻 Recruiter Snapshot
+---
 
-- 🎓 **B.Tech CSE (AI & ML)** — VIT-AP University (CGPA: **8.85 / 10.0**)
-- 💼 **Frontend Developer Trainee** — Edubot Software & Services  
-- 🤖 Hands-on experience in **AI, ML, DL & Reinforcement Learning**
-- ⚛️ Strong frontend expertise in **React, TypeScript & Tailwind CSS**
-- ☁️ **AWS Certified Cloud Practitioner** (Score: **963/1000**)
-- 🧠 Experience building **ML pipelines, RL agents & full-stack apps**
+## 📊 GitHub Stats
 
-📌 *For full experience, projects, and certifications, please refer to the resume above.*
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Harsha2614&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsha2614&theme=tokyonight&hide_border=true&layout=compact&bg_color=0D1117" height="165"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harsha2614&theme=tokyonight&hide_border=true&background=0D1117"/>
+</div>
 
 ---
 
