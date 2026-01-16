@@ -23,8 +23,7 @@
 
 ## 🎯 About Me
 
-<img align="right" alt="AI developer coding" width="380"
-src="https://user-images.githubusercontent.com/74038190/216656977-ef584e0e-1cdd-4f8c-9a5c-7f1b1f1a0f2a.gif">
+<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 - 🎓 Final-year **B.Tech CSE (AI & ML)** student at **VIT-AP University**
 - 🤖 Strong interest in **Machine Learning, Deep Learning & Reinforcement Learning**
@@ -65,32 +64,16 @@ src="https://user-images.githubusercontent.com/74038190/216656977-ef584e0e-1cdd-
 
 ---
 
-## 🚀 Projects
+## 📊 GitHub Stats
 
-### 🛡️ ResQNet — Integrated Disaster Management & Safety System
-- Built a **3-module AI platform** (chatbot, fake news detection, safe-route navigation)
-- Achieved **95% STT accuracy** and **92% fake news detection accuracy**
-- Reduced emergency response and search time by **30%**
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Harsha2614&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsha2614&theme=tokyonight&hide_border=true&layout=compact&bg_color=0D1117" height="165"/>
+</div>
 
-**Tech:** Flask, Whisper, SQLite, ML Models
-
----
-
-### 📝 AI-Powered Meeting Summarizer
-- Automated meeting summarization with **70% reduction** in manual effort
-- Achieved **60–70% meeting compression**
-- Faster transcript access with optimized MySQL storage
-
-**Tech:** FastAPI, Whisper, GPT-4o-mini, MySQL
-
----
-
-### 🚕 Autonomous Taxi Navigation (Reinforcement Learning)
-- Built a **Q-Learning agent** in OpenAI Gym (Taxi-v3)
-- Improved route efficiency by **45%**
-- Increased cumulative rewards by **35%**
-
-**Tech:** Python, NumPy, Matplotlib, OpenAI Gym
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harsha2614&theme=tokyonight&hide_border=true&background=0D1117"/>
+</div>
 
 ---
 
@@ -102,18 +85,24 @@ src="https://user-images.githubusercontent.com/74038190/216656977-ef584e0e-1cdd-
   </a>
 </p>
 
+### 👨‍💻 Recruiter Snapshot
+
+- 🎓 **B.Tech CSE (AI & ML)** — VIT-AP University (CGPA: **8.85 / 10.0**)
+- 💼 **Frontend Developer Trainee** — Edubot Software & Services  
+- 🤖 Hands-on experience in **AI, ML, DL & Reinforcement Learning**
+- ⚛️ Strong frontend expertise in **React, TypeScript & Tailwind CSS**
+- ☁️ **AWS Certified Cloud Practitioner** (Score: **963/1000**)
+- 🧠 Experience building **ML pipelines, RL agents & full-stack apps**
+
+📌 *For full experience, projects, and certifications, please refer to the resume above.*
+
 ---
 
-## 📊 GitHub Stats
+## 🏆 Certifications
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harsha2614&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsha2614&theme=tokyonight&hide_border=true&layout=compact&bg_color=0D1117" height="165"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harsha2614&theme=tokyonight&hide_border=true&background=0D1117"/>
-</div>
+- ☁️ **AWS Certified Cloud Practitioner** — 963/1000
+- 🤖 **Artificial Intelligence using Google TensorFlow**
+- 🌐 **Oracle OCI Generative AI Professional** — 90%
 
 ---
 
