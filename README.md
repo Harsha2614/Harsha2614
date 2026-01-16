@@ -25,9 +25,10 @@
 
 <img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-- 🎓 Final-year **B.Tech CSE (AI & ML)** student at **VIT-AP University**
+- 🎓 Final-year **B.Tech CSE (AI & ML)** student at **VIT-AP University** (CGPA: **8.85 / 10.0**)
 - 🤖 Strong interest in **Machine Learning, Deep Learning & Reinforcement Learning**
 - 💻 Frontend developer with hands-on **React & Tailwind CSS**
+- 💼 **Frontend Developer Trainee** — Edubot Software & Services  
 - 🔬 Experience building **AI, ML, and full-stack systems**
 - ⚡ Quick learner with a strong **problem-solving mindset**
 - 📍 Location: India
@@ -113,10 +114,8 @@
 **Tech:** Python, NumPy, Matplotlib, OpenAI Gym
 
 ---
-
 📌 *For full experience, projects, and certifications, please refer to the resume above.*
 
----
 
 ## 🏆 Certifications
 
