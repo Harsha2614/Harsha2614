@@ -87,7 +87,7 @@
 **Tech:** Python, NumPy, Matplotlib, OpenAI Gym
 
 ---
-📌 *For full experience, projects, and certifications, please refer to the resume above.*
+
 
 
 ## 🏆 Certifications
@@ -96,6 +96,10 @@
 - 🤖 **Artificial Intelligence using Google TensorFlow**
 - 🌐 **Oracle OCI Generative AI Professional** — 90%
 
+
+---
+
+📌 *For full experience, projects, and certifications, please refer to the resume above.*
 
 ---
 
