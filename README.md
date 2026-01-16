@@ -156,11 +156,10 @@
 
 ---
 
-### 💡 Engineer’s Quote
 
-> *“Engineering is not about knowing all the answers — it’s about asking the right questions and building reliable solutions.”*
+ *“Engineering is not about knowing all the answers — it’s about asking the right questions and building reliable solutions.”*
 
----
+
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg"/>
