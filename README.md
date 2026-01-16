@@ -23,8 +23,8 @@
 
 ## 🎯 About Me
 
-<img align="right" alt="Developer at work" width="380"
-src="https://user-images.githubusercontent.com/74038190/212750375-89f6c4f6-0e16-4dfc-b6e2-30d2a8d6b3c4.gif">
+<img align="right" alt="AI developer coding" width="380"
+src="https://user-images.githubusercontent.com/74038190/216656977-ef584e0e-1cdd-4f8c-9a5c-7f1b1f1a0f2a.gif">
 
 - 🎓 Final-year **B.Tech CSE (AI & ML)** student at **VIT-AP University**
 - 🤖 Strong interest in **Machine Learning, Deep Learning & Reinforcement Learning**
@@ -68,30 +68,27 @@ src="https://user-images.githubusercontent.com/74038190/212750375-89f6c4f6-0e16-
 ## 🚀 Projects
 
 ### 🛡️ ResQNet — Integrated Disaster Management & Safety System
-- Built a **3-module AI platform**: chatbot, fake-news detection, and safe-route navigation
-- Achieved **95% speech-to-text accuracy** and **92% fake-news detection accuracy**
-- Reduced emergency navigation & search time by **30%**
-- Integrated multiple Flask microservices using **DispatcherMiddleware**
+- Built a **3-module AI platform** (chatbot, fake news detection, safe-route navigation)
+- Achieved **95% STT accuracy** and **92% fake news detection accuracy**
+- Reduced emergency response and search time by **30%**
 
-**Tech:** Flask, Whisper, SQLite, Multiple ML Models
+**Tech:** Flask, Whisper, SQLite, ML Models
 
 ---
 
 ### 📝 AI-Powered Meeting Summarizer
-- Developed a **FastAPI-based meeting summarizer**
-- Reduced manual note-taking effort by **70%**
-- Compressed meetings by **60–70%** using automated summaries
-- Stored transcripts in MySQL with **30% faster retrieval**
+- Automated meeting summarization with **70% reduction** in manual effort
+- Achieved **60–70% meeting compression**
+- Faster transcript access with optimized MySQL storage
 
-**Tech:** FastAPI, Whisper, GPT-4o-mini, MySQL, HTML, JavaScript
+**Tech:** FastAPI, Whisper, GPT-4o-mini, MySQL
 
 ---
 
 ### 🚕 Autonomous Taxi Navigation (Reinforcement Learning)
-- Implemented a **Q-Learning agent** in OpenAI Gym (Taxi-v3)
+- Built a **Q-Learning agent** in OpenAI Gym (Taxi-v3)
 - Improved route efficiency by **45%**
-- Increased cumulative rewards by **35%** over 5,000+ episodes
-- Visualized reward patterns for better policy explainability
+- Increased cumulative rewards by **35%**
 
 **Tech:** Python, NumPy, Matplotlib, OpenAI Gym
 
@@ -117,14 +114,6 @@ src="https://user-images.githubusercontent.com/74038190/212750375-89f6c4f6-0e16-
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harsha2614&theme=tokyonight&hide_border=true&background=0D1117"/>
 </div>
-
----
-
-## 🏆 Certifications
-
-- ☁️ **AWS Certified Cloud Practitioner** — 963/1000
-- 🤖 **Artificial Intelligence using Google TensorFlow**
-- 🌐 **Oracle OCI Generative AI Professional** — 90%
 
 ---
 
