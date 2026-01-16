@@ -53,20 +53,6 @@
 </div>
 
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harsha2614&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsha2614&theme=tokyonight&hide_border=true&layout=compact&bg_color=0D1117" height="165"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harsha2614&theme=tokyonight&hide_border=true&background=0D1117"/>
-</div>
-
----
-
 ## 📄 Resume
 
 <p align="center">
@@ -75,6 +61,7 @@
   </a>
 </p>
 
+---
 ## 🚀 Projects
 
 ### 🛡️ ResQNet — Integrated Disaster Management & Safety System
@@ -112,8 +99,21 @@
 - 🤖 **Artificial Intelligence using Google TensorFlow**
 - 🌐 **Oracle OCI Generative AI Professional** — 90%
 
+
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Harsha2614&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsha2614&theme=tokyonight&hide_border=true&layout=compact&bg_color=0D1117" height="165"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harsha2614&theme=tokyonight&hide_border=true&background=0D1117"/>
+</div>
+
+---
 ## 📈 Contribution Graph
 
 <div align="center">
