@@ -80,19 +80,39 @@
 ## 📄 Resume
 
 <p align="center">
-  <a href="Harsha_resume.pdf">
+  <a href="https://drive.google.com/file/d/1seO7ts-hH23AlIm153ot1BDSru6x8QHF/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/📄_Download_Resume-PDF-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
   </a>
 </p>
 
-### 👨‍💻 Recruiter Snapshot
+## 🚀 Projects
 
-- 🎓 **B.Tech CSE (AI & ML)** — VIT-AP University (CGPA: **8.85 / 10.0**)
-- 💼 **Frontend Developer Trainee** — Edubot Software & Services  
-- 🤖 Hands-on experience in **AI, ML, DL & Reinforcement Learning**
-- ⚛️ Strong frontend expertise in **React, TypeScript & Tailwind CSS**
-- ☁️ **AWS Certified Cloud Practitioner** (Score: **963/1000**)
-- 🧠 Experience building **ML pipelines, RL agents & full-stack apps**
+### 🛡️ ResQNet — Integrated Disaster Management & Safety System
+- Built a **3-module AI platform** (chatbot, fake news detection, safe-route navigation)
+- Achieved **95% STT accuracy** and **92% fake news detection accuracy**
+- Reduced emergency response and search time by **30%**
+
+**Tech:** Flask, Whisper, SQLite, ML Models
+
+---
+
+### 📝 AI-Powered Meeting Summarizer
+- Automated meeting summarization with **70% reduction** in manual effort
+- Achieved **60–70% meeting compression**
+- Faster transcript access with optimized MySQL storage
+
+**Tech:** FastAPI, Whisper, GPT-4o-mini, MySQL
+
+---
+
+### 🚕 Autonomous Taxi Navigation (Reinforcement Learning)
+- Built a **Q-Learning agent** in OpenAI Gym (Taxi-v3)
+- Improved route efficiency by **45%**
+- Increased cumulative rewards by **35%**
+
+**Tech:** Python, NumPy, Matplotlib, OpenAI Gym
+
+---
 
 📌 *For full experience, projects, and certifications, please refer to the resume above.*
 
