@@ -52,9 +52,6 @@
 
 </div>
 
----
-## 📄 Resume
-
 <p align="center">
   <a href="https://drive.google.com/file/d/1seO7ts-hH23AlIm153ot1BDSru6x8QHF/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/📄_Download_Resume-PDF-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
