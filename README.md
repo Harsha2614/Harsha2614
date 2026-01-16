@@ -5,9 +5,15 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=B.Tech+CSE+(AI+%26+ML);AI+%2F+ML+Enthusiast;Frontend+Developer;Reinforcement+Learning+Explorer;Always+Learning+Always+Building)](https://git.io/typing-svg)
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/harsha-vardhan-narayana-2201b6278/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:harsha.rmb31@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/Harsha2614"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/harsha-vardhan-narayana-2201b6278/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:harsha.rmb31@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Harsha2614">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
   <img src="https://komarev.com/ghpvc/?username=Harsha2614&label=Profile%20views&color=0e75b6&style=for-the-badge"/>
 </p>
 
@@ -22,8 +28,8 @@
 - 🎓 Final-year **B.Tech CSE (AI & ML)** student at **VIT-AP University**
 - 🤖 Strong interest in **Machine Learning, Deep Learning & Reinforcement Learning**
 - 💻 Frontend developer with hands-on **React & Tailwind CSS**
-- 🔬 Worked on **ML, DL & RL-based real-world projects**
-- ⚡ Quick learner with strong **problem-solving mindset**
+- 🔬 Experience building **AI, ML, and full-stack systems**
+- ⚡ Quick learner with a strong **problem-solving mindset**
 - 📍 Location: India
 
 <br clear="both">
@@ -71,30 +77,32 @@
 
 ---
 
-## 🚀 Featured Projects
+## 📄 Resume
 
-### 📦 E-commerce Shipping Prediction
-- 📊 Trained ML/DL models on **10,999 shipment records**
-- 🎯 Achieved **68.52% accuracy** using tuned **Random Forest**
-- 🔍 Focused on logistics optimization and delivery prediction
+<p align="center">
+  <a href="Harsha_resume.pdf">
+    <img src="https://img.shields.io/badge/📄_Download_Resume-PDF-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+  </a>
+</p>
 
-### 🧑‍🦱 Facial Age Detection (Deep Learning)
-- 🧠 CNN with Residual Blocks, Dropout & **AdamW optimizer**
-- 📸 Trained on **20,000+ UTKFace images**
-- 📉 Achieved **MAE ≈ 4.8 years**
+### 👨‍💻 Recruiter Snapshot
 
-### 🚕 Q-Learning for Autonomous Taxi Navigation
-- 🤖 Implemented Q-Learning agent using **OpenAI Gym Taxi-v3**
-- 🌦️ Considered traffic, weather & energy constraints
-- 📈 Improved policy convergence through reward tuning
+- 🎓 **B.Tech CSE (AI & ML)** — VIT-AP University (CGPA: **8.85 / 10.0**)
+- 💼 **Frontend Developer Trainee** — Edubot Software & Services  
+- 🤖 Hands-on experience in **AI, ML, DL & Reinforcement Learning**
+- ⚛️ Strong frontend expertise in **React, TypeScript & Tailwind CSS**
+- ☁️ **AWS Certified Cloud Practitioner** (Score: **963/1000**)
+- 🧠 Experience building **ML pipelines, RL agents & full-stack apps**
+
+📌 *For full experience, projects, and certifications, please refer to the resume above.*
 
 ---
 
 ## 🏆 Certifications
 
-- ☁️ **AWS Certified Cloud Practitioner** (963/1000)
-- 🤖 **AI using Google TensorFlow** – Smartbridge + Google
-- 🌐 **Oracle OCI Generative AI Professional** (90%)
+- ☁️ **AWS Certified Cloud Practitioner** — 963/1000
+- 🤖 **Artificial Intelligence using Google TensorFlow**
+- 🌐 **Oracle OCI Generative AI Professional** — 90%
 
 ---
 
@@ -106,15 +114,23 @@
 
 ---
 
-## 🤝 Let's Connect!
+## 🤝 Let’s Connect
 
 <div align="center">
 
 <p align="center">
-  <a href="mailto:harsha.rmb31@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/harsha-vardhan-narayana-2201b6278/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/Harsha2614"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://leetcode.com/u/harsha310/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+  <a href="mailto:harsha.rmb31@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/harsha-vardhan-narayana-2201b6278/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Harsha2614">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/harsha310/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
 </p>
 
 </div>
