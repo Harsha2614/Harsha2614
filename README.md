@@ -1,126 +1,123 @@
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I'm Narayana Harsha Vardhan
+# 👋 Hi, I'm Narayana Harsha Vardhan
 
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=B.Tech+CSE+(AI+%26+ML);AI+%2F+ML+Enthusiast;Frontend+Developer;Reinforcement+Learning+Explorer;Always+Learning+Always+Building)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=720&lines=B.Tech+CSE+(AI+%26+ML)+Final+Year;AI+%2F+ML+Engineer+in+Training;Frontend+Developer+(React);Reinforcement+Learning+Practitioner;Open+to+Internships+%26+Entry-Level+Roles)](https://git.io/typing-svg)
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/harsha-vardhan-narayana-2201b6278/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:harsha.rmb31@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/Harsha2614"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=Harsha2614&label=Profile%20views&color=0e75b6&style=for-the-badge"/>
+  <a href="mailto:harsha.rmb31@gmail.com"><img src="https://img.shields.io/badge/Email-Immediate%20Response-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/harsha-vardhan-narayana-2201b6278/"><img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/Harsha2614"><img src="https://img.shields.io/badge/GitHub-Project%20Portfolio-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 </div>
 
 ---
 
-## 🎯 About Me
+## 🎯 Professional Summary
 
-<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+Final-year **B.Tech CSE (AI & ML)** student at **VIT-AP University** with hands-on experience in **Machine Learning, Deep Learning, Reinforcement Learning, and Frontend Development**. Proven ability to **build, train, evaluate, and deploy ML models**, and to **develop clean, responsive user interfaces** using React.
 
-- 🎓 Final-year **B.Tech CSE (AI & ML)** student at **VIT-AP University**
-- 🤖 Strong interest in **Machine Learning, Deep Learning & Reinforcement Learning**
-- 💻 Frontend developer with hands-on **React & Tailwind CSS**
-- 🔬 Worked on **ML, DL & RL-based real-world projects**
-- ⚡ Quick learner with strong **problem-solving mindset**
-- 📍 Location: India
-
-<br clear="both">
+I enjoy working on **data-driven systems**, optimizing models, and translating theoretical concepts into **production-ready solutions**. Actively seeking **AI/ML Internships, Software Engineer Intern roles, or Entry-Level positions**.
 
 ---
 
-## 🛠️ Tech Stack
+## 💡 Core Competencies
 
-<div align="center">
+- **Machine Learning**: Model training, evaluation, feature engineering, hyperparameter tuning  
+- **Deep Learning**: CNN architectures, optimization techniques, regularization  
+- **Reinforcement Learning**: Q-Learning, environment modeling, reward shaping  
+- **Frontend Development**: React, Tailwind CSS, responsive UI design  
+- **Problem Solving**: Strong fundamentals in algorithms, data structures, and mathematics  
 
-### Languages
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+---
+
+## 🛠️ Technical Skills
+
+### Programming Languages
+`Python` · `Java` · `TypeScript` · `JavaScript` · `HTML` · `CSS`
 
 ### Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+`React` · `Tailwind CSS` · `TensorFlow` · `OpenCV`
 
 ### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+`Git` · `GitHub` · `MySQL` · `VS Code` · `Google Colab`
 
+---
+
+## 🚀 Key Projects (Impact-Focused)
+
+### 📦 E-commerce Shipping Time Prediction
+- Built and evaluated ML/DL models using **10,999 real-world shipment records**
+- Applied **feature engineering and hyperparameter tuning**
+- Achieved **68.52% prediction accuracy** using **Random Forest**
+- Business value: improved delivery-time estimation for logistics workflows
+
+**Tech:** Python, Scikit-learn, Pandas, ML Pipelines
+
+---
+
+### 🧑‍🦱 Facial Age Detection using Deep Learning
+- Designed **CNN architecture with residual connections & dropout**
+- Trained on **20,000+ UTKFace images**
+- Achieved **Mean Absolute Error ≈ 4.8 years**
+- Focused on generalization and overfitting reduction
+
+**Tech:** TensorFlow, CNNs, AdamW Optimizer
+
+---
+
+### 🚕 Reinforcement Learning – Autonomous Taxi Navigation
+- Implemented **Q-Learning agent** in OpenAI Gym (Taxi-v3)
+- Modeled **traffic, weather, and energy constraints**
+- Improved policy convergence through reward shaping
+
+**Tech:** Python, Reinforcement Learning, OpenAI Gym
+
+---
+
+## 📊 GitHub Activity & Consistency
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Harsha2614&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harsha2614&theme=tokyonight&hide_border=true" height="165"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsha2614&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 🏆 Certifications & Credentials
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harsha2614&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsha2614&theme=tokyonight&hide_border=true&layout=compact&bg_color=0D1117" height="165"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harsha2614&theme=tokyonight&hide_border=true&background=0D1117"/>
-</div>
+- ☁️ **AWS Certified Cloud Practitioner** — Score: 963/1000  
+- 🤖 **AI using Google TensorFlow** — Smartbridge + Google  
+- 🌐 **Oracle Cloud Infrastructure – Generative AI Professional** (90%)
 
 ---
 
-## 🚀 Featured Projects
+## 🎯 What I’m Looking For
 
-### 📦 E-commerce Shipping Prediction
-- 📊 Trained ML/DL models on **10,999 shipment records**
-- 🎯 Achieved **68.52% accuracy** using tuned **Random Forest**
-- 🔍 Focused on logistics optimization and delivery prediction
+- AI / ML Internships  
+- Software Engineer Intern roles  
+- Entry-level roles in **AI, ML, Data, or Full Stack Development**
 
-### 🧑‍🦱 Facial Age Detection (Deep Learning)
-- 🧠 CNN with Residual Blocks, Dropout & **AdamW optimizer**
-- 📸 Trained on **20,000+ UTKFace images**
-- 📉 Achieved **MAE ≈ 4.8 years**
-
-### 🚕 Q-Learning for Autonomous Taxi Navigation
-- 🤖 Implemented Q-Learning agent using **OpenAI Gym Taxi-v3**
-- 🌦️ Considered traffic, weather & energy constraints
-- 📈 Improved policy convergence through reward tuning
+📌 **Open to on-site, hybrid, and remote opportunities**
 
 ---
 
-## 🏆 Certifications
-
-- ☁️ **AWS Certified Cloud Practitioner** (963/1000)
-- 🤖 **AI using Google TensorFlow** – Smartbridge + Google
-- 🌐 **Oracle OCI Generative AI Professional** (90%)
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harsha2614&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
-</div>
-
----
-
-## 🤝 Let's Connect!
-
-<div align="center">
+## 🤝 Let’s Connect
 
 <p align="center">
-  <a href="mailto:harsha.rmb31@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/harsha-vardhan-narayana-2201b6278/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/Harsha2614"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://leetcode.com/u/harsha310/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+  <a href="mailto:harsha.rmb31@gmail.com"><img src="https://img.shields.io/badge/Email-Let’s%20Talk-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/harsha-vardhan-narayana-2201b6278/"><img src="https://img.shields.io/badge/LinkedIn-View%20Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/Harsha2614"><img src="https://img.shields.io/badge/GitHub-View%20Projects-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/harsha310/"><img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
 </p>
-
-</div>
 
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Thanks+for+Visiting!&fontSize=28"/>
 </div>
