@@ -101,7 +101,7 @@
 
 📌 *For full experience, projects, and certifications, please refer to the resume above.*
 
----
+
 
 ## 📊 GitHub Stats
 
