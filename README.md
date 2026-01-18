@@ -2,7 +2,23 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=B.Tech+CSE+(AI+%26+ML);AI+%2F+ML+Enthusiast;Frontend+Developer;Reinforcement+Learning+Explorer;Always+Learning+Always+Building)](https://git.io/typing-svg)
+<picture>
+  <!-- Dark theme -->
+  <source 
+    media="(prefers-color-scheme: dark)" 
+    srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&pause=1000&color=9BB3C9&center=true&vCenter=true&width=650&lines=B.Tech+CSE+(AI+%26+ML);AI+%2F+ML+Enthusiast;Frontend+Developer;Reinforcement+Learning+Explorer;Always+Learning+Always+Building"
+  />
+  <!-- Light theme -->
+  <source 
+    media="(prefers-color-scheme: light)" 
+    srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&pause=1000&color=2F3E46&center=true&vCenter=true&width=650&lines=B.Tech+CSE+(AI+%26+ML);AI+%2F+ML+Enthusiast;Frontend+Developer;Reinforcement+Learning+Explorer;Always+Learning+Always+Building"
+  />
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&pause=1000&color=2F3E46&center=true&vCenter=true&width=650&lines=B.Tech+CSE+(AI+%26+ML);AI+%2F+ML+Enthusiast;Frontend+Developer;Reinforcement+Learning+Explorer;Always+Learning+Always+Building" 
+    alt="Typing SVG"
+  />
+</picture>
+
 
 
 
