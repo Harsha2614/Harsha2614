@@ -3,12 +3,10 @@
 <div align="center">
   
 <picture>
-  <!-- Dark theme -->
   <source 
     media="(prefers-color-scheme: dark)" 
     srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&pause=1000&color=9BB3C9&center=true&vCenter=true&width=650&lines=B.Tech+CSE+(AI+%26+ML);AI+%2F+ML+Enthusiast;Frontend+Developer;Reinforcement+Learning+Explorer;Always+Learning+Always+Building"
   />
-  <!-- Light theme -->
   <source 
     media="(prefers-color-scheme: light)" 
     srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&pause=1000&color=2F3E46&center=true&vCenter=true&width=650&lines=B.Tech+CSE+(AI+%26+ML);AI+%2F+ML+Enthusiast;Frontend+Developer;Reinforcement+Learning+Explorer;Always+Learning+Always+Building"
