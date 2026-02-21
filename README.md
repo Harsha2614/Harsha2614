@@ -224,7 +224,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Harsha2614&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6" />
+
 
 <br/><br/>
 
@@ -246,7 +246,7 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Harsha2614&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=1a8c80&icon_color=e8a735&text_color=c9d1d9&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Harsha2614&theme=tokyonight&hide_border=true&background=0D1117&ring=1a8c80&fire=e8a735&currStreakLabel=1a8c80&sideLabels=c9d1d9&dates=6b6455" />
 
 
 <br/>
