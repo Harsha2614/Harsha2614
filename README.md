@@ -105,9 +105,6 @@
 
 ---
 
-<picture>
-  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%"/>
-</picture>
 
 ---
 
@@ -311,8 +308,9 @@ Score: 90% 🏅
 </div>
 
 ---
+<div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harsha2614&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00E5CC&line=302b63&point=e8a735&area=true&area_color=00E5CC&radius=8" width="60%"/>
-
+</div>
 ---
 
 ## 🌐 Let's Connect
