@@ -49,7 +49,7 @@
 │  degree     : B.Tech CSE — AI & ML           │
 │  university : VIT-AP University              │
 │  cgpa       : 8.85 / 10.0  ⭐               │
-│  role       : Frontend Dev Trainee           │
+│  experience : Frontend Dev Trainee           │
 │               @ Edubot Software & Services   │
 │  location   : India  🇮🇳                     │
 │  interests  : ML · DL · RL · GenAI · React  │
@@ -68,10 +68,6 @@
 <br clear="both"/>
 
 ---
-
-<picture>
-  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%"/>
-</picture>
 
 ---
 
@@ -107,9 +103,7 @@
 
 ---
 
-<picture>
-  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%"/>
-</picture>
+
 
 ---
 
@@ -238,9 +232,6 @@
 
 ---
 
-<picture>
-  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%"/>
-</picture>
 
 ---
 
@@ -297,9 +288,6 @@ Score: 90% 🏅
 
 ---
 
-<picture>
-  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%"/>
-</picture>
 
 ---
 
@@ -320,9 +308,7 @@ Score: 90% 🏅
 
 ---
 
-<picture>
-  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%"/>
-</picture>
+
 
 ---
 
