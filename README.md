@@ -1,7 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24,25&height=260&section=header&text=Narayana%20Harsha%20Vardhan&fontSize=46&fontColor=ffffff&desc=AI%20%2F%20ML%20Engineer%20%7C%20Frontend%20Developer%20%7C%20Builder&descSize=16" />
-
+<h1 align="center">Narayana Harsha Vardhan</h1>
+<p align="center">
+AI / ML Engineer • Frontend Developer • Lifelong Builder
+</p>
 </div>
 
 <br/>
