@@ -247,11 +247,11 @@
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Harsha2614&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=1a8c80&icon_color=e8a735&text_color=c9d1d9&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Harsha2614&theme=tokyonight&hide_border=true&background=0D1117&ring=1a8c80&fire=e8a735&currStreakLabel=1a8c80&sideLabels=c9d1d9&dates=6b6455" />
+
 
 <br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsha2614&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=1a8c80&text_color=c9d1d9&langs_count=6" />
+
 <img width="55%" src="https://github-readme-activity-graph.vercel.app/graph?username=Harsha2614&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=1a8c80&line=1e4d9b&point=e8a735&area=true&area_color=1a8c80" />
 
 </div>
