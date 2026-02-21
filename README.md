@@ -323,9 +323,10 @@ Score: 90% 🏅
 <a href="https://leetcode.com/u/harsha310/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
 
 &nbsp;&nbsp;
+<div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/235294016-cae21c97-9454-4f5d-ae79-8b3e3bf26453.gif" width="80"/>
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="440"/>
-
+</div>
 <br/><br/>
 
 > ### 💬 *"Engineering is not about knowing all the answers —*
