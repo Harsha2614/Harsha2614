@@ -324,11 +324,6 @@ Score: 90% 🏅
 
 <br/><br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="80"/>
-&nbsp;&nbsp;
-<img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="80"/>
-&nbsp;&nbsp;
-<img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="80"/>
 &nbsp;&nbsp;
 <img src="https://user-images.githubusercontent.com/74038190/235294016-cae21c97-9454-4f5d-ae79-8b3e3bf26453.gif" width="80"/>
 
