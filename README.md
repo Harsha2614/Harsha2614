@@ -322,13 +322,8 @@ Score: 90% 🏅
 <a href="https://github.com/Harsha2614"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;
 <a href="https://leetcode.com/u/harsha310/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
 
-<br/><br/>
-
 &nbsp;&nbsp;
 <img src="https://user-images.githubusercontent.com/74038190/235294016-cae21c97-9454-4f5d-ae79-8b3e3bf26453.gif" width="80"/>
-
-<br/><br/>
-
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="440"/>
 
 <br/><br/>
