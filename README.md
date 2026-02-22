@@ -50,12 +50,12 @@ AI / ML Engineer • Frontend Developer • Lifelong Builder
 │  name       : Narayana Harsha Vardhan        │
 │  degree     : B.Tech CSE — AI & ML           │
 │  university : VIT-AP University              │
-│  cgpa       : 8.85 / 10.0  ⭐               │
+│  cgpa       : 8.85 / 10.0  ⭐                │
 │  role       : Frontend Dev Trainee           │
 │               @ Edubot Software & Services   │
-│  location   : India  🇮🇳                     │
-│  interests  : ML · DL · RL · GenAI · React  │
-│  status     : 🟢 Open to Opportunities       │
+│  location   : India  🇮🇳                      │
+│  interests  : ML · DL · RL · GenAI · React  m│
+│  status     : 🟢 Open to Opportunities      │
 ╰─────────────────────────────────────────────╯
 ```
 
