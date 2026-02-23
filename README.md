@@ -51,7 +51,7 @@ AI / ML Engineer • Frontend Developer • Lifelong Builder
 │  degree     : B.Tech CSE — AI & ML           │
 │  university : VIT-AP University              │
 │  cgpa       : 8.85 / 10.0  ⭐                │
-│  role       : Frontend Dev Trainee           │
+│  experience : Frontend Dev Trainee           │
 │               @ Edubot Software & Services   │
 │  location   : India  🇮🇳                      │
 │  interests  : ML · DL · RL · GenAI · React  m│
