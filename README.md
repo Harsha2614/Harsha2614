@@ -10,7 +10,7 @@ AI / ML Engineer • Frontend Developer • Lifelong Builder
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=900&color=00E5CC&background=00000000&center=true&vCenter=true&width=720&lines=🎓+B.Tech+CSE+(AI+%26+ML)+%7C+VIT-AP+University+%7C+CGPA%3A+8.85;🤖+Deep+Learning+%7C+Reinforcement+Learning+%7C+NLP;💻+React+%7C+TypeScript+%7C+Tailwind+CSS;🌱+LLMs+%7C+Generative+AI+%7C+MLOps+Explorer;⚡+Always+Learning+—+Always+Building)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=900&color=00E5CC&background=00000000&center=true&vCenter=true&width=720&lines=🎓+B.Tech+CSE+(AI+%26+ML)+%7C+VIT-AP+University+%7C+CGPA%3A+8.85;🤖+Deep+Learning+%7C+Reinforcement+Learning+%7C+NLP;💻+React+%7C+JavaScript+%7C+Tailwind+CSS;🌱+LLMs+%7C+Generative+AI+%7C+MLOps+Explorer;⚡+Always+Learning+—+Always+Building)](https://git.io/typing-svg)
 
 </div>
 
@@ -32,10 +32,6 @@ AI / ML Engineer • Frontend Developer • Lifelong Builder
 </div>
 
 ---
-
-<picture>
-  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%"/>
-</picture>
 
 ---
 
