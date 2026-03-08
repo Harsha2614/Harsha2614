@@ -297,7 +297,7 @@ Score: 90% 🏅
 <div align="center">
 
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Harsha2614&theme=tokyonight&hide_border=true&background=0D1117&ring=00E5CC&fire=e8a735&currStreakLabel=00E5CC&sideLabels=c9d1d9&dates=6b6455" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Harsha2614&theme=tokyonight&hide_border=true&background=0D1117&ring=00E5CC&fire=e8a735&currStreakLabel=00E5CC&sideLabels=c9d1d9&dates=6b6455" width="50%"/>
 
 <br/><br/>
 
